@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@300&family=Macondo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Macondo&family=Poiret+One&display=swap');
+.custom-navbar-brand{
+    font-family: 'Macondo', cursive;
+    font-size: 30px;
+    font-weight: bold;
+    
+    
+}
+.custom-navbar{
+    background-color: rgb(250, 221, 182);
+}
+.custom-navbar-nav{
+    font-family: 'Poiret One', cursive;
+    font-weight: bolder;
+
+}
